@@ -66,3 +66,9 @@ li:first-letter {
 .weather-temperature .active:hover {
   text-decoration: none;
 }
+.celsius-link {
+  text-decoration: none;
+}
+.fahrenheit-link {
+  text-decoration: none;
+}
